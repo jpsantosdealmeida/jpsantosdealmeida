@@ -1,8 +1,7 @@
 # 💫 Sobre mim:
 Tenho 24 anos, sou de São Paulo e sou apaixonada por programação e café! Sou aventureiro no universo da programação, e quanto mais eu aprendo e passo raiva, mas eu amo tudo isso! <br><br>#LógicadeProgramaçãoÉaCoisaMaisImportante<br><br>
 
-
-<img src="https://raw.githubusercontent.com/jpsantosdealmeida/jpsantosdealmeida/output/snake.svg" alt="Snake animation" />
+![snake animation](https://github.com/<seu jpsantosdealmeida>/<seu jpsantosdealmeida>/blob/output/github-contribution-grid-snake2.svg)
 
 ###
 ------------------------------
