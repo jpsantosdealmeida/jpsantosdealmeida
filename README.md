@@ -6,6 +6,9 @@ Tenho 24 anos, sou de São Paulo e sou apaixonada por programação e café! Sou
 ###
 ------------------------------
 
+💻 Estou no último ano de Ciências da Computação pela UNIP;
+
+📚 Tenho trabalhado e estudado com Python e Django, mas também gosto de me aventurar em JavaScript nas horas vagas;
 
 ------------------------------
 ## 🌐 Redes Sociais:
